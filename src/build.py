@@ -37,8 +37,12 @@ HEAD = """<!doctype html>
 <meta property="og:title" content="대상종합공사 | 현장을 이해하는 시공, 오래가는 마감">
 <meta property="og:description" content="300건 이상의 시공 기록, 36개 시·군·구 출동. 사진 한 장 보내주시면 작업 범위를 안내해 드립니다.">
 <meta property="og:url" content="{site}/">
-<meta property="og:image" content="{site}/img/hero_rope.jpg">
+<meta property="og:image" content="{site}/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="대상종합공사 — 현장을 이해하는 시공, 오래가는 마감. 010-3996-6004">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{site}/img/og.jpg">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2308182D'/%3E%3Cg fill='none' stroke='%234A7CCF' stroke-width='2.6'%3E%3Cpath d='M9.5 7v13.2a6.5 6.5 0 0 0 13 0V7' stroke-linecap='square'/%3E%3Cpath d='M16 24.4V28'/%3E%3C/g%3E%3C/svg%3E">
 """
 

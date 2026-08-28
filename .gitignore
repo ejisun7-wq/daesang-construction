@@ -6,3 +6,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vercel
+
+# OG 시안 작업 파일
+og_*.jpg

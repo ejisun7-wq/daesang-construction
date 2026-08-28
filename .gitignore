@@ -1,0 +1,8 @@
+# self-contained build (3.6 MB) — regenerate with: python src/build.py
+dist/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vercel
